@@ -1,9 +1,9 @@
 # 💫 About Me:
-☕ Code • 🎧 Music • 🎨 Art • 💡 Ideas • 🚀 Tech<br><br>Hi, I’m Kashinadh M, currently pursuing B.Tech in Computer Science and Engineering at CEAL. <br>I’m a curious student exploring software development and new technologies. <br>I enjoy turning ideas into projects, learning through experimentation, and continuously improving my skills.
+☕ Code • 🎧 Music • 🎨 Art • 💡 Ideas • 🚀 Tech<br><br>Hi, I’m Kashinadh M, currently pursuing B.Tech in Computer Science and Engineering at CEAL. <br>I’m a curious student exploring software developmentand new technologies. I enjoy turning ideas into projects, <br>learning through experimentation, and continuously improving my skills.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juster_k4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashinadh-m-53113b383) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@jekoggg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkashinath13@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juster_k4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashinadh-m-53113b383) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jekoggg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkashinath13@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
