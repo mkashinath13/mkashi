@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Code • 🎧 Music • 🎨 Art • 💡 Ideas • 🚀 Tech<br><br>Hi, I’m Kashinadh M, currently pursuing B.Tech in <br>Computer Science and Engineering at CEAL. <br>I’m a curious student exploring software development<br>and new technologies. I enjoy turning ideas into projects, <br>learning through experimentation, and continuously<br>improving my skills.
+☕ Code • 🎧 Music • 🎨 Art • 💡 Ideas • 🚀 Tech<br><br>Hi, I’m Kashinadh M, currently pursuing B.Tech in Computer Science and Engineering at CEAL. <br>I’m a curious student exploring software development and new technologies. I enjoy turning ideas into projects, <br>learning through experimentation, and continuously<br>improving my skills.
 
 
 ## 🌐 Socials:
